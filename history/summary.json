@@ -5,6 +5,14 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 112
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 124,
+    "timeDay": 80,
+    "timeWeek": 104,
+    "timeMonth": 124,
+    "timeYear": 124
   }
 ]
