@@ -6,17 +6,15 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 265,
-    "timeWeek": 347,
-    "timeMonth": 288,
-    "timeYear": 249,
-    "dailyMinutesDown": {
-      "2025-04-28": 11
-    }
+    "time": 272,
+    "timeDay": 269,
+    "timeWeek": 299,
+    "timeMonth": 290,
+    "timeYear": 248,
+    "dailyMinutesDown": {}
   }
 ]
