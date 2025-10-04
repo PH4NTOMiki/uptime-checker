@@ -4,17 +4,17 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 27573,
-    "timeWeek": 4146,
-    "timeMonth": 1116,
-    "timeYear": 320,
+    "time": 342,
+    "timeDay": 23661,
+    "timeWeek": 6096,
+    "timeMonth": 1698,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2025-09-18": 21
     }
