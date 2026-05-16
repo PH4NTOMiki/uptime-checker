@@ -6,16 +6,17 @@
     "slug": "secret-site",
     "status": "down",
     "uptime": "95.05%",
-    "uptimeDay": "35.39%",
-    "uptimeWeek": "26.22%",
+    "uptimeDay": "27.16%",
+    "uptimeWeek": "24.96%",
     "uptimeMonth": "20.84%",
-    "uptimeYear": "71.45%",
+    "uptimeYear": "71.49%",
     "time": 5698,
-    "timeDay": 352,
-    "timeWeek": 336,
+    "timeDay": 323,
+    "timeWeek": 334,
     "timeMonth": 460,
     "timeYear": 6488,
     "dailyMinutesDown": {
+      "2026-05-16": 129,
       "2026-05-15": 1011,
       "2026-05-14": 1256,
       "2026-05-13": 1135,
@@ -126,8 +127,7 @@
       "2026-01-28": 1245,
       "2026-01-27": 1312,
       "2026-01-26": 1107,
-      "2026-01-25": 975,
-      "2026-01-24": 95
+      "2026-01-25": 775
     }
   }
 ]
