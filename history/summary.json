@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "94.93%",
-    "uptimeDay": "48.90%",
-    "uptimeWeek": "92.70%",
-    "uptimeMonth": "56.12%",
-    "uptimeYear": "70.51%",
+    "uptime": "94.89%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "78.57%",
+    "uptimeMonth": "54.99%",
+    "uptimeYear": "70.24%",
     "time": 5714,
-    "timeDay": 137,
-    "timeWeek": 961,
-    "timeMonth": 443,
+    "timeDay": 128,
+    "timeWeek": 868,
+    "timeMonth": 433,
     "timeYear": 6279,
     "dailyMinutesDown": {
       "2026-01-27": 423,
@@ -134,7 +134,8 @@
       "2026-05-22": 7,
       "2026-05-23": 534,
       "2026-05-24": 588,
-      "2026-06-05": 243,
+      "2026-06-06": 227,
+      "2026-06-05": 1440,
       "2026-06-04": 493
     }
   }
